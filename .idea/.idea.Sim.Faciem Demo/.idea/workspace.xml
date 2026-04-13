@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ede8152-8bbf-4780-bf60-c8dae936943d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Game/Runtime/uGUI/SampleBoolToFontStylesConverter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game/Runtime/uGUI/SampleBoolToFontStylesConverter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/BindablePropertyElement.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/BindablePropertyElement.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Internal/PropertyContainerCompat.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/SimAutoBindingComponentEditor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/SimAutoBindingComponentEditor.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/GenericBindableProperty.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/GenericBindableProperty.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimAutoBindingComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimAutoBindingComponent.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimComponentPropertyPath.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimComponentPropertyPath.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimGenericBindingPostApply.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimGenericBindingPostApply.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimGenericRuntimeBinding.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimGenericRuntimeBinding.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimPostApplyActionsInitializers.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimPostApplyActionsInitializers.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Runtime/uGUI/NestedItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Runtime/uGUI/NestedItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Runtime/uGUI/SampleViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Runtime/uGUI/SampleViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/BindablePropertyContextMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/BindablePropertyContextMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/BindablePropertyPropertyDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/BindablePropertyPropertyDrawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/BindingWindow/View/BindingWindowView.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/BindingWindow/View/BindingWindowView.uxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/BindingWindow/ViewModel/BindingWindowViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/BindingWindow/ViewModel/BindingWindowViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/ConverterControl/SimConverterCollectionControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/ConverterControl/SimConverterCollectionControl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/PropertyPathControl/PropertyContainerCompat.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/PropertyPathControl/PropertyContainerCompat.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Internal/PropertyContainerCompat.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/PropertyPathControl/PropertyPathField.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/PropertyPathControl/PropertyPathField.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/PropertyPathControl/PropertyPathPickerPopup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/PropertyPathControl/PropertyPathPickerPopup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/PropertyPathControl/PropertyPathTreeView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/PropertyPathControl/PropertyPathTreeView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/PropertyPathControl/PropertyPathTreeViewItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Editor/uGUI/Controls/PropertyPathControl/PropertyPathTreeViewItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/Controls/BindableButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/Controls/BindableButton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/Binding/SimBindingFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/Binding/SimBindingFactory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/Binding/SimObservablePropertyPathVisitor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/Binding/SimObservablePropertyPathVisitor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/Binding/SimPropertyPathVisitor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/Binding/SimPropertyPathVisitor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimBindingInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimBindingInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimConverterBaseBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimConverterBaseBehaviour.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimConverterBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimConverterBehaviour.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimPropertyPath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sim.Faciem/Runtime/uGUI/SimPropertyPath.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-    </list>
+    <list default="true" id="2ede8152-8bbf-4780-bf60-c8dae936943d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -272,7 +229,7 @@
       <workItem from="1769530468244" duration="17096000" />
       <workItem from="1769619543919" duration="18656000" />
       <workItem from="1769714919173" duration="15970000" />
-      <workItem from="1770554374255" duration="22196000" />
+      <workItem from="1770554374255" duration="22800000" />
     </task>
     <servers />
   </component>

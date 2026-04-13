@@ -23,6 +23,28 @@
       "dependencies": {},
       "hash": "242f30ec55ef9c34f1e9953126e6e8350ec3f4c0"
     },
+    "com.sim.faciem": {
+      "version": "file:Sim.Faciem",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.sim.faciem-material": {
+      "version": "file:Sim.Faciem.Material",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.sim.faciem": "1.0.0-alpha.1"
+      }
+    },
+    "com.sim.faciem-ugui": {
+      "version": "file:Sim.Faciem.uGUI",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.sim.faciem": "1.0.0-alpha.1"
+      }
+    },
     "com.unity.2d.animation": {
       "version": "10.2.2",
       "depth": 1,
