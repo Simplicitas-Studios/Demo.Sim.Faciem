@@ -1,0 +1,16 @@
+﻿<Solution>
+  <Project Path="Sim.Faciem.Material.Editor.csproj" />
+  <Project Path="Sim.Faciem.csproj" />
+  <Project Path="Sim.Faciem.uGUI.csproj" />
+  <Project Path="Sim.Faciem.Material.Samples.csproj" />
+  <Project Path="Sim.Faciem.Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Sim.Faciem.Material.csproj" />
+  <Project Path="Sim.Faciem.uGUI.Editor.csproj" />
+  <Project Path="Sim.Faciem.Controls.csproj" />
+  <Project Path="Sim.Faciem.Shared.csproj" />
+  <Project Path="Sim.Faciem.Demo.Editor.csproj" />
+  <Project Path="Sim.Faciem.Controls.Editor.csproj" />
+  <Project Path="Sim.Faciem.InternalEditor.csproj" />
+  <Project Path="Sim.Faciem.Material.Samples.Editor.csproj" />
+</Solution>
