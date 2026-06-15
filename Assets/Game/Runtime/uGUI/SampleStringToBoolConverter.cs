@@ -1,8 +1,10 @@
 ﻿using Sim.Faciem.uGUI;
+using UnityEngine;
 
 namespace Game.Runtime.uGUI
 {
-    public class SampleStringToBoolConverter : SimConverterBehaviour<string, bool>
+    [CreateAssetMenu(fileName = "SampleStringToBoolConverter", menuName = "Converters/SampleStringToBoolConverter")]
+    public class SampleStringToBoolConverter : SimConverter<string, bool>
     {
         public override bool Convert(string from)
         {

@@ -39,6 +39,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Faciem-ViewId
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a8f41ef0f0f4dbe9e7d6cf4bd0d1c8f
+    m_Address: Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/GridList/MatGridListDemoViewId.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Faciem-ViewId
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9b26c18bf4214db3a1ef6f1d62e6c0f1
     m_Address: Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/List/MatListDemoViewId.asset
     m_ReadOnly: 0

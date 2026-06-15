@@ -30,7 +30,7 @@
   - rely on the current fixed/ratio-derived tile size model so visible range math stays deterministic and efficient
 
 ## Files to modify
-- `PLAN.md`
+- `plans/mat-grid-list-virtualization.md`
 - Runtime control:
   - `Packages/Sim.Faciem.Material/Runtime/Controls/MatGridList.cs`
 - Demo/sample files for the approved large-data example:

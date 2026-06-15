@@ -1,8 +1,10 @@
 ﻿using Sim.Faciem.uGUI;
+using UnityEngine;
 
 namespace Game.Runtime.uGUI
 {
-    public class SampleIntToStringConverter : SimConverterBehaviour<int, string>
+    [CreateAssetMenu(fileName = "SampleIntToStringConverter", menuName = "Converters/SampleIntToStringConverter")]
+    public class SampleIntToStringConverter : SimConverter<int, string>
     {
         public override string Convert(int from)
         {
