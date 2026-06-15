@@ -3,53 +3,59 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2ede8152-8bbf-4780-bf60-c8dae936943d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatFormField.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatFormField.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatFormFieldAppearance.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatFormFieldAppearance.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatOption.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatOption.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatSelect.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatSelect.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatFormFieldColors.uss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatFormFieldColors.uss.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatFormFieldStyles.uss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatFormFieldStyles.uss.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatSelectColors.uss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatSelectColors.uss.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatSelectStyles.uss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatSelectStyles.uss.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/ISelectDemoDataContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/SelectDemoView.uxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/SelectDemoViewModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatEditorStyles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatEditorStyles.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatButtonColors.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatButtonColors.uss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatButtonStyles.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatButtonStyles.uss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatDeepPurpleTheme.tss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatDeepPurpleTheme.tss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatDeepPurpleTheme.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatDeepPurpleTheme.uss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatEditorDarkTheme.uss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatEditorDarkTheme.uss.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatEditorLightTheme.uss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatEditorLightTheme.uss.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatIndigoTheme.tss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatIndigoTheme.tss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatIndigoTheme.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatIndigoTheme.uss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatPinkBlueGreyTheme.tss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatPinkBlueGreyTheme.tss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatPinkBlueGreyTheme.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatPinkBlueGreyTheme.uss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatPurpleGreenTheme.tss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatPurpleGreenTheme.tss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatPurpleGreenTheme.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatPurpleGreenTheme.uss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Editor/MatDemoWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Editor/MatDemoWindow.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/IMatDemoWindowDataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/IMatDemoWindowDataContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/MatDemoStyles.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/MatDemoStyles.uss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/MatDemoWindowView.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/MatDemoWindowView.uxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/MatDemoWindowViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/MatDemoWindowViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Theming/ThemingView.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Theming/ThemingView.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/ISelectDemoDataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/ISelectDemoDataContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/SelectDemoView.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/SelectDemoView.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/SelectDemoViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/SelectDemoViewModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/WellKnownMatDemoViewIds.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/WellKnownMatDemoViewIds.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="444236b2-946e-4531-a5fa-f1c96f0e0646" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="444236b2-946e-4531-a5fa-f1c96f0e0646" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
@@ -118,6 +124,10 @@
     <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/WellKnownMatDemoRegions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/WellKnownMatDemoViewIds.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -130,23 +140,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="$PROJECT_DIR$/../Builds\Sim.Faciem Demo.exe" />
@@ -191,15 +206,13 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" useMixedMode="false" ignored-value-for-modified-check="35872">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" useMixedMode="false">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="35872" />
+      <option name="pid" />
       <option name="projectPathOnTarget" />
       <option name="runtimes">
-        <list>
-          <MonoRuntime />
-        </list>
+        <list />
       </option>
       <option name="selectedOptions">
         <list />
@@ -237,6 +250,7 @@
       <workItem from="1776190757128" duration="10697000" />
       <workItem from="1776449133084" duration="5608000" />
       <workItem from="1777722995158" duration="4385000" />
+      <workItem from="1781542787238" duration="791000" />
     </task>
     <servers />
   </component>
