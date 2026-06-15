@@ -1,11 +1,12 @@
-﻿using UnityEditor;
+﻿using Plugins.Sim.Faciem.Editor;
+using UnityEditor;
 using UnityEngine;
 
-namespace Plugins.Sim.Faciem.Editor
+namespace Game.Editor
 {
     public class DemoEditorWindow : FaciemEditorWindow
     {
-        [MenuItem("Faciem/Demo Window")]
+        [MenuItem("Sim/Faciem/Demo Window")]
         public static void ShowDemoWindow()
         {
             // This method is called when the user selects the menu item in the Editor.
