@@ -2,12 +2,11 @@
 using System.Threading;
 using System.Threading.Tasks;
 using Cysharp.Threading.Tasks;
-using Sim.Faciem;
+using R3;
 using Sim.Faciem.Commands;
 using Unity.Properties;
-using R3;
 
-namespace Plugins.Sim.Faciem.Editor
+namespace Sim.Faciem.Demo.Editor
 {
     public class DemoEditorWindowViewModel : ViewModel<DemoEditorWindowViewModel>, IDemoEditorWindowDataContext
     {
@@ -38,7 +37,7 @@ namespace Plugins.Sim.Faciem.Editor
         }
 
         
-        protected override async UniTask NavigateTo()
+        protected override async UniTask NavigateTo(NavigationParameters navigationParameters)
         {
             await ShowCurrentView();
         }

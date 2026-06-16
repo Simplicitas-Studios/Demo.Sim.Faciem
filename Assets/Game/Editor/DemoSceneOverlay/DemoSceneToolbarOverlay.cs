@@ -1,10 +1,4 @@
-﻿using Cysharp.Threading.Tasks;
-using Sim.Faciem;
-using UnityEditor;
-using UnityEditor.Overlays;
-using UnityEngine.UIElements;
-
-namespace Plugins.Sim.Faciem.Editor.DemoSceneOverlay
+﻿namespace Game.Editor.DemoSceneOverlay
 {
     
     // [Overlay(typeof(SceneView), "Faciem Demo Overlay", true)]

@@ -7,3 +7,6 @@
 [submodule "Packages/Sim.Faciem.uGUI"]
 	path = Packages/Sim.Faciem.uGUI
 	url = https://github.com/Simplicitas-Studios/Sim.Faciem.uGUI.git
+[submodule "Packages/Sim.Utility"]
+	path = Packages/Sim.Utility
+	url = https://github.com/Simplicitas-Studios/Sim.Utility.git

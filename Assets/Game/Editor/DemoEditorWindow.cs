@@ -1,4 +1,4 @@
-﻿using Plugins.Sim.Faciem.Editor;
+﻿using Sim.Faciem.Editor;
 using UnityEditor;
 using UnityEngine;
 

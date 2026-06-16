@@ -27,7 +27,9 @@
       "version": "file:Sim.Faciem",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {}
+      "dependencies": {
+        "com.sim.utility": "1.0.0-alpha.1"
+      }
     },
     "com.sim.faciem-material": {
       "version": "file:Sim.Faciem.Material",
@@ -40,6 +42,14 @@
     },
     "com.sim.faciem-ugui": {
       "version": "file:Sim.Faciem.uGUI",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.sim.faciem": "1.0.0-alpha.1"
+      }
+    },
+    "com.sim.utility": {
+      "version": "file:Sim.Utility",
       "depth": 0,
       "source": "embedded",
       "dependencies": {

@@ -16,7 +16,7 @@ namespace Game.Runtime.UI.MainMenu
 
         private int _counter = 0;
         
-        protected override UniTask NavigateTo()
+        protected override UniTask NavigateTo(NavigationParameters navigationParameters)
         {
             Disposables.Add(
                 Observable.Interval(TimeSpan.FromSeconds(1), UnityTimeProvider.Update)
@@ -25,7 +25,7 @@ namespace Game.Runtime.UI.MainMenu
                         GameName = OriginalGameName + $" {_counter++}";
                     }));
             
-            return base.NavigateTo();
+            return base.NavigateTo(navigationParameters);
         }
     }
 }

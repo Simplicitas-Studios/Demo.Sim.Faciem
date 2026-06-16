@@ -1,6 +1,4 @@
-using Sim.Faciem;
-
-namespace Plugins.Sim.Faciem.Editor
+namespace Sim.Faciem.Demo.Editor
 {
     public static class WellKnownDemoViewIds
     {
