@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 8c163f0c0e868734db55654f7e4140b9
   m_SerializeEntries:
+  - m_GUID: 1d06c4288172d604da19cbe015f75830
+    m_Address: Packages/com.sim.faciem-material/Icons/Fontawesome-Free-Regular.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaciemMaterial.IconCollection
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 21d64d2b4c9ce2a4a9c66db0d84dbadd
     m_Address: Assets/Game/Runtime/UI/MainMenu/ViewId.asset
     m_ReadOnly: 0
@@ -27,11 +33,23 @@ MonoBehaviour:
     m_SerializedLabels:
     - Faciem-ViewId
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f66ff72217b4021b87dca8bbf8c247d
+    m_Address: Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/Icon/MatIconDemoViewId.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Faciem-ViewId
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 750eee54b38c12b45ae1d3a86e71d38d
     m_Address: Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/Button/ViewId.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - Faciem-ViewId
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7760d729b59e247428311094e3bd4e4d
+    m_Address: Packages/com.sim.faciem-material/Icons/Fontawesome-Free-Brands.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaciemMaterial.IconCollection
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 78d31f6e57332e4479c2711c21e2b191
     m_Address: Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/Select/ViewId.asset
@@ -45,11 +63,23 @@ MonoBehaviour:
     m_SerializedLabels:
     - Faciem-ViewId
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97f0024ce32ca834abab27b2c6c63b57
+    m_Address: Packages/com.sim.faciem-material/Icons/Fontawesome-Free-Brands-Full.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaciemMaterial.IconCollection
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9b26c18bf4214db3a1ef6f1d62e6c0f1
     m_Address: Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/List/MatListDemoViewId.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - Faciem-ViewId
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a16e16d49ff35b849b2fb9df93aa6891
+    m_Address: Packages/com.sim.faciem-material/Icons/Fontawesome-Free-Solid-Full.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaciemMaterial.IconCollection
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ab0b4fec84b548d4e8be324b9033908a
     m_Address: Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/GettingStarted/ViewId.asset
@@ -62,6 +92,18 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Faciem-ViewId
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfedb3517b9b2c04da71ccec2a60ec1f
+    m_Address: Packages/com.sim.faciem-material/Icons/Fontawesome-Free-Solid.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaciemMaterial.IconCollection
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eca510846d9ca454f8d15745cc4138ef
+    m_Address: Packages/com.sim.faciem-material/Icons/Fontawesome-Free-Regular-Full.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaciemMaterial.IconCollection
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 9feb4e2695f5e3d4da87b1975a901332, type: 2}
