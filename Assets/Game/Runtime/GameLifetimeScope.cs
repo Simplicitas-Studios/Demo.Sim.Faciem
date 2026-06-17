@@ -8,8 +8,6 @@ namespace Game.Runtime
 {
     public class GameLifetimeScope : LifetimeScope, IDIRegistrationBridge
     {
-
-        
         private IContainerBuilder _builder;
         
         protected override void Configure(IContainerBuilder builder)
