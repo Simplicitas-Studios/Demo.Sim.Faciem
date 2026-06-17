@@ -11,68 +11,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ede8152-8bbf-4780-bf60-c8dae936943d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/NavigationParameters.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/NavigationParameters.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Sim.Utility" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Editor/DemoEditorWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Editor/DemoEditorWindow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Editor/DemoEditorWindowViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Editor/DemoEditorWindowViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Editor/DemoSceneOverlay/DemoSceneToolbarOverlay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Editor/DemoSceneOverlay/DemoSceneToolbarOverlay.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Editor/DemoView2/ISecondDemoDataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Editor/DemoView2/ISecondDemoDataContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Editor/DemoView2/SecondDemoViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Editor/DemoView2/SecondDemoViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Editor/IDemoEditorWindowDataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Editor/IDemoEditorWindowDataContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Editor/Sim.Faciem.Demo.Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Editor/Sim.Faciem.Demo.Editor.asmdef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Editor/WellKnownDemoRegions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Editor/WellKnownDemoRegions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Editor/WellKnownDemoViewIds.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Editor/WellKnownDemoViewIds.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Runtime/UI/MainMenu/MainMenuViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Runtime/UI/MainMenu/MainMenuViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/Bebop.Monads.2.2.0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/Bebop.Monads.2.2.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/Bebop.Monads.2.2.0/Bebop.Monads.nuspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/Bebop.Monads.2.2.0/Bebop.Monads.nuspec.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/Bebop.Monads.2.2.0/lib.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/Bebop.Monads.2.2.0/lib/netstandard2.0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/Bebop.Monads.2.2.0/lib/netstandard2.0/Bebop.Monads.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/Bebop.Monads.2.2.0/lib/netstandard2.0/Bebop.Monads.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/Bebop.Monads.2.2.0/lib/netstandard2.0/Bebop.Monads.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/Bebop.Monads.2.2.0/lib/netstandard2.0/Bebop.Monads.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/packages.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatFaciemEditorWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatFaciemEditorWindow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatFaciemPopupWindowContent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatFaciemPopupWindowContent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatFaciemToolbarOverlay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatFaciemToolbarOverlay.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Icon/IconDemoViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Icon/IconDemoViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/MatDemoWindowViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/MatDemoWindowViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Editor/BindablePropertyContextMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Editor/BindablePropertyContextMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Editor/BindingWindow/BindingWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Editor/BindingWindow/BindingWindow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Editor/FaciemUGUIEditorInstaller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Editor/FaciemUGUIEditorInstaller.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/DI/EditorInjector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/DI/EditorInjector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/DI/EditorServiceInstaller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/DI/EditorServiceInstaller.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/DI/IEditorInjector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/DI/IEditorInjector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/DI/ServiceRegistration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/DI/ServiceRegistration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/EditorViewIdAsset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/EditorViewIdAsset.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/FaciemEditorServiceInstaller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/FaciemEditorServiceInstaller.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/FaciemEditorWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/FaciemEditorWindow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/FaciemPopupWindowContent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/FaciemPopupWindowContent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/FaciemToolbarOverlay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/FaciemToolbarOverlay.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/IRegionManagerOwner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/IRegionManagerOwner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/Navigation/EditorToolNavigationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/Navigation/EditorToolNavigationService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/Navigation/IEditorToolNavigationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/Navigation/IEditorToolNavigationService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/Services/EditorViewIdRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/Services/EditorViewIdRegistry.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/Sim.Faciem.Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Editor/Sim.Faciem.Editor.asmdef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/AddressableExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/AddressableExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/AddressableHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/AddressableHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/Controls/SerializedCommandPropertyDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/Controls/SerializedCommandPropertyDrawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/Controls/SerializedListReferencePropertyDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/Controls/SerializedListReferencePropertyDrawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/Controls/Sim.Faciem.Controls.Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/Controls/Sim.Faciem.Controls.Editor.asmdef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/DesignTimeDataContextWizard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/DesignTimeDataContextWizard.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/FaciemSetup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/FaciemSetup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/MonoScriptField.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/MonoScriptField.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/RegionNameCodeGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/RegionNameCodeGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Editor/Controls/ConverterControl/SimConverterCollectionControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Editor/Controls/ConverterControl/SimConverterCollectionControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Editor/Sim.Faciem.uGUI.Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Editor/Sim.Faciem.uGUI.Editor.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Runtime/Sim.Faciem.uGUI.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI/Runtime/Sim.Faciem.uGUI.asmdef" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/RegionNameDefinitionEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/RegionNameDefinitionEditor.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/Sim.Faciem.InternalEditor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/Sim.Faciem.InternalEditor.asmdef" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/ViewIdAssetEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/ViewIdAssetEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/ViewIdAssetFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/InternalEditor/ViewIdAssetFactory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/BaseViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/BaseViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/FaciemUIDocument.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/FaciemUIDocument.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/INavigationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/INavigationService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/IViewModelNavigationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/IViewModelNavigationService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/NavigationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/NavigationService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/ShellViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/ShellViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/Sim.Faciem.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/Sim.Faciem.asmdef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/ViewModelNavigationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/ViewModelNavigationService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/Region.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/Region.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/RegionManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/RegionManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Shared/MaybeExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Shared/MaybeExtensions.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,59 +146,59 @@
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0000000161078675" />
-      <entry key="S30" value="1.0260849316818532" />
-      <entry key="S60" value="2.184686457987489" />
-      <entry key="M2" value="9.581135286932227" />
-      <entry key="M5" value="30.480279411691548" />
-      <entry key="M10" value="46.152105545655594" />
-      <entry key="M15" value="53.85997442627036" />
-      <entry key="M30" value="70.9237373724738" />
-      <entry key="H1" value="103.21925117484764" />
-      <entry key="H2" value="145.16443372076776" />
-      <entry key="H4" value="182.88518934888097" />
-      <entry key="D1" value="231.43530074651898" />
-      <entry key="W1" value="242.13229065885733" />
+      <entry key="S2" value="1.000000253670139" />
+      <entry key="S5" value="1.0037604345140088" />
+      <entry key="S10" value="1.1015781522107695" />
+      <entry key="S30" value="2.003313684810129" />
+      <entry key="S60" value="3.0316000101075042" />
+      <entry key="M2" value="4.2352216308570325" />
+      <entry key="M5" value="5.581259920823519" />
+      <entry key="M10" value="6.221292051170235" />
+      <entry key="M15" value="6.46380527464418" />
+      <entry key="M30" value="6.722917217380008" />
+      <entry key="H1" value="6.859122393199318" />
+      <entry key="H2" value="6.939960144855425" />
+      <entry key="H4" value="8.555989727469296" />
+      <entry key="D1" value="111.95829714458871" />
+      <entry key="W1" value="223.26963599788795" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.0946814916390105E-160" />
-      <entry key="S2" value="1.090785375733506E-40" />
-      <entry key="S5" value="1.5905684748520463E-16" />
-      <entry key="S10" value="2.437752020898271E-8" />
-      <entry key="S30" value="0.009898095839910512" />
-      <entry key="S60" value="0.32973030664606107" />
-      <entry key="M2" value="2.223958131563808" />
-      <entry key="M5" value="7.638485616098795" />
-      <entry key="M10" value="12.086095300311626" />
-      <entry key="M15" value="14.9152843029745" />
-      <entry key="M30" value="24.017974263696683" />
-      <entry key="H1" value="42.324662341502844" />
-      <entry key="H2" value="64.94139835830995" />
-      <entry key="H4" value="84.4835166912169" />
-      <entry key="D1" value="108.82346365394264" />
-      <entry key="W1" value="114.0847363546984" />
+      <entry key="MS100" value="1.2858992508168583E-17" />
+      <entry key="MS500" value="4.1864259813746804E-4" />
+      <entry key="S2" value="0.14970595147437848" />
+      <entry key="S5" value="0.6069309156331384" />
+      <entry key="S10" value="1.2007923645444487" />
+      <entry key="S30" value="2.7860911279027696" />
+      <entry key="S60" value="4.041857372319551" />
+      <entry key="M2" value="5.294523225408703" />
+      <entry key="M5" value="6.618940436427974" />
+      <entry key="M10" value="7.242078519681278" />
+      <entry key="M15" value="7.478035667988217" />
+      <entry key="M30" value="7.730199702687746" />
+      <entry key="H1" value="7.8628010904516135" />
+      <entry key="H2" value="7.935732245560719" />
+      <entry key="H4" value="8.700522078506083" />
+      <entry key="D1" value="57.349557881924866" />
+      <entry key="W1" value="109.89867900718727" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9265880618903709" />
-      <entry key="MS500" value="0.9848664428955506" />
-      <entry key="S2" value="0.9961949481330542" />
-      <entry key="S5" value="0.9984762383082795" />
-      <entry key="S10" value="0.999237867887649" />
-      <entry key="S30" value="1.0355000841851332" />
-      <entry key="S60" value="2.50961755922175" />
-      <entry key="M2" value="11.786309709355034" />
-      <entry key="M5" value="38.08949263034399" />
-      <entry key="M10" value="58.213941365025676" />
-      <entry key="M15" value="68.75501769858643" />
-      <entry key="M30" value="94.92511594271946" />
-      <entry key="H1" value="145.52874265771865" />
-      <entry key="H2" value="210.09347506327455" />
-      <entry key="H4" value="267.360150147334" />
-      <entry key="D1" value="340.2567714850955" />
-      <entry key="W1" value="356.2167233396308" />
+      <entry key="MS100" value="0.01286860964480583" />
+      <entry key="MS500" value="0.4189288362402383" />
+      <entry key="S2" value="0.9326512679334478" />
+      <entry key="S5" value="1.4900209912231963" />
+      <entry key="S10" value="2.215885674849478" />
+      <entry key="S30" value="4.722376211654895" />
+      <entry key="S60" value="7.0197468416063895" />
+      <entry key="M2" value="9.490816461650759" />
+      <entry key="M5" value="12.17896453825667" />
+      <entry key="M10" value="13.451361354739179" />
+      <entry key="M15" value="13.933478975524645" />
+      <entry key="M30" value="14.448744614801402" />
+      <entry key="H1" value="14.719686800762195" />
+      <entry key="H2" value="14.874560125795863" />
+      <entry key="H4" value="17.255868387057767" />
+      <entry key="D1" value="169.30685588018267" />
+      <entry key="W1" value="333.16803014231226" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -359,7 +325,7 @@
       <workItem from="1776449133084" duration="5608000" />
       <workItem from="1777722995158" duration="4385000" />
       <workItem from="1781542787238" duration="4388000" />
-      <workItem from="1781601858141" duration="8129000" />
+      <workItem from="1781601858141" duration="12798000" />
     </task>
     <servers />
   </component>
