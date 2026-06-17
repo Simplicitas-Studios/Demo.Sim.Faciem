@@ -11,8 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ede8152-8bbf-4780-bf60-c8dae936943d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Runtime/GameLifetimeScope.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Runtime/GameLifetimeScope.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI" afterDir="false" />
     </list>
@@ -300,7 +298,7 @@
       <workItem from="1776449133084" duration="5608000" />
       <workItem from="1777722995158" duration="4385000" />
       <workItem from="1781542787238" duration="4388000" />
-      <workItem from="1781601858141" duration="12982000" />
+      <workItem from="1781601858141" duration="13606000" />
     </task>
     <servers />
   </component>
