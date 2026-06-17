@@ -28,7 +28,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "com.sim.utility": "1.0.0-alpha.1"
+        "com.unity.addressables": "2.8.0"
       }
     },
     "com.sim.faciem-material": {
