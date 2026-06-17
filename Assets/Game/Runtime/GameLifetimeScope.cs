@@ -28,6 +28,11 @@ namespace Game.Runtime
             _builder.Register<TInterface, TImpl>(Lifetime.Singleton);
         }
 
+        public void RegisterTransient<TInterface, TImpl>() where TImpl : class, TInterface
+        {
+            _builder.Register<TInterface, TImpl>(Lifetime.Transient);
+        }
+
         public void RegisterTransient(Type tInterface, Type tImpl)
         {
             _builder.Register(
