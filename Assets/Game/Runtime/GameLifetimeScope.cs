@@ -31,6 +31,18 @@ namespace Game.Runtime
             _builder.Register<TInterface, TImpl>(Lifetime.Transient);
         }
 
+        public void RegisterSingleton<TInterface, TImpl>(params Type[] aliases) where TImpl : class, TInterface
+        {
+            _builder.Register<TImpl>(Lifetime.Singleton)
+                .AsImplementedInterfaces();
+        }
+
+        public void RegisterTransient<TInterface, TImpl>(params Type[] aliases) where TImpl : class, TInterface
+        {
+            _builder.Register<TImpl>(Lifetime.Transient)
+                .AsImplementedInterfaces();
+        }
+
         public void RegisterTransient(Type tInterface, Type tImpl)
         {
             _builder.Register(

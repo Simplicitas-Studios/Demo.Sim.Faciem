@@ -12,24 +12,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2ede8152-8bbf-4780-bf60-c8dae936943d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Settings/GamePanelSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Settings/GamePanelSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PLAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/PLAN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatButton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatSelect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatSelect.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatSelectionList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatSelectionList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatButtonStyles.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatButtonStyles.uss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatFormFieldStyles.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatFormFieldStyles.uss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatListColors.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatListColors.uss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatListStyles.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatListStyles.uss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatMenuStyles.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatMenuStyles.uss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatSelectColors.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatSelectColors.uss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatSelectStyles.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/Styles/MatSelectStyles.uss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatPurpleGreenTheme.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Themes/MatPurpleGreenTheme.uss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Button/ButtonDemoView.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Button/ButtonDemoView.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Runtime/GameLifetimeScope.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Runtime/GameLifetimeScope.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Shared/GlobalPointerInputWatcher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Shared/GlobalPointerInputWatcher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +68,7 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Packages/Sim.Faciem.Material" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Temp/SourceGeneratedDocuments/2D3DC8691E2CD37A8C0D762A/Unity.UIToolkit.SourceGenerator/Unity.UIToolkit.SourceGenerator.UxmlSerializedDataGenerator/Sim.Faciem.uGUI.Editor.Controls.ConverterControl.SimConverterCollectionControl.gen.cs" root0="FORCE_HIGHLIGHTING" />
@@ -144,61 +131,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000078106" />
-      <entry key="S5" value="1.0000724814154893" />
-      <entry key="S10" value="1.0195757576701185" />
-      <entry key="S30" value="1.9774695088863496" />
-      <entry key="S60" value="3.8702926905535846" />
-      <entry key="M2" value="6.677733866050547" />
-      <entry key="M5" value="11.338328336479934" />
-      <entry key="M10" value="16.375546515252832" />
-      <entry key="M15" value="20.447665298270024" />
-      <entry key="M30" value="28.296143110646216" />
-      <entry key="H1" value="36.45175510771005" />
-      <entry key="H2" value="46.54115178895549" />
-      <entry key="H4" value="58.4204391384556" />
-      <entry key="D1" value="133.42075986753363" />
-      <entry key="W1" value="288.8673582905088" />
+      <entry key="MS100" value="4.0944197369114194E-116" />
+      <entry key="MS500" value="8.364470857976913E-24" />
+      <entry key="S2" value="1.7006291468006858E-6" />
+      <entry key="S5" value="0.004923515668850018" />
+      <entry key="S10" value="0.07153876267417439" />
+      <entry key="S30" value="0.8156123068446826" />
+      <entry key="S60" value="2.485597463243714" />
+      <entry key="M2" value="5.351463903137111" />
+      <entry key="M5" value="10.377349093767132" />
+      <entry key="M10" value="15.666230125306361" />
+      <entry key="M15" value="19.852849951445798" />
+      <entry key="M30" value="27.881543323838034" />
+      <entry key="H1" value="36.18372108098227" />
+      <entry key="H2" value="46.36972480544242" />
+      <entry key="H4" value="58.312748650414854" />
+      <entry key="D1" value="133.379737709422" />
+      <entry key="W1" value="288.8546685494969" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="6.37062597384123E-286" />
-      <entry key="MS500" value="9.137690026159749E-58" />
-      <entry key="S2" value="5.498055322589391E-15" />
-      <entry key="S5" value="1.977620487849122E-6" />
-      <entry key="S10" value="0.0014226181265178052" />
-      <entry key="S30" value="0.1405066502389061" />
-      <entry key="S60" value="0.6170098217742334" />
-      <entry key="M2" value="1.8064624205318955" />
-      <entry key="M5" value="4.2261716365339455" />
-      <entry key="M10" value="6.272162903699257" />
-      <entry key="M15" value="7.698321040784798" />
-      <entry key="M30" value="10.389915783053942" />
-      <entry key="H1" value="13.080363045184955" />
-      <entry key="H2" value="15.865931168310569" />
-      <entry key="H4" value="18.733639343405383" />
-      <entry key="D1" value="56.94592662680399" />
-      <entry key="W1" value="136.75236669000773" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000000089" />
+      <entry key="S2" value="1.000554941159062" />
+      <entry key="S5" value="1.0637151907709026" />
+      <entry key="S10" value="1.3908048754225997" />
+      <entry key="S30" value="2.53982795016059" />
+      <entry key="S60" value="3.4982003997422115" />
+      <entry key="M2" value="4.956915202184208" />
+      <entry key="M5" value="7.660598952426033" />
+      <entry key="M10" value="9.894845686992271" />
+      <entry key="M15" value="11.403517181191699" />
+      <entry key="M30" value="14.20202829219103" />
+      <entry key="H1" value="16.96629950763178" />
+      <entry key="H2" value="19.798536489564256" />
+      <entry key="H4" value="22.694625299949745" />
+      <entry key="D1" value="60.92767044903837" />
+      <entry key="W1" value="140.74625248193848" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9138314502294005" />
-      <entry key="MS500" value="0.9821395952633915" />
-      <entry key="S2" value="0.9955046776772862" />
-      <entry key="S5" value="0.9982665013086491" />
-      <entry key="S10" value="1.018599742375385" />
-      <entry key="S30" value="2.0841387330130834" />
-      <entry key="S60" value="4.433627285863789" />
-      <entry key="M2" value="8.427830035705165" />
-      <entry key="M5" value="15.520346089379075" />
-      <entry key="M10" value="22.60434647696319" />
-      <entry key="M15" value="28.099396420386466" />
-      <entry key="M30" value="38.64160377483935" />
-      <entry key="H1" value="49.49902514187785" />
-      <entry key="H2" value="62.38579059426438" />
-      <entry key="H4" value="77.1415133193203" />
-      <entry key="D1" value="190.36361821006304" />
-      <entry key="W1" value="425.61907117925387" />
+      <entry key="MS100" value="0.0438889023668124" />
+      <entry key="MS500" value="0.535144349213312" />
+      <entry key="S2" value="0.8553243585829844" />
+      <entry key="S5" value="0.9687684975848385" />
+      <entry key="S10" value="1.30596866010901" />
+      <entry key="S30" value="3.1796483868701606" />
+      <entry key="S60" value="5.838862670770144" />
+      <entry key="M2" value="10.198479058059949" />
+      <entry key="M5" value="17.96903361935326" />
+      <entry key="M10" value="25.504873822849735" />
+      <entry key="M15" value="31.201215003679565" />
+      <entry key="M30" value="42.034755535683445" />
+      <entry key="H1" value="53.114651241690346" />
+      <entry key="H2" value="66.14578413065469" />
+      <entry key="H4" value="80.99419948602527" />
+      <entry key="D1" value="194.3042352887123" />
+      <entry key="W1" value="429.60025218044564" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -326,6 +313,7 @@
       <workItem from="1781601858141" duration="13842000" />
       <workItem from="1781717198394" duration="11511000" />
       <workItem from="1781809511317" duration="3221000" />
+      <workItem from="1782414427317" duration="122000" />
     </task>
     <servers />
   </component>
