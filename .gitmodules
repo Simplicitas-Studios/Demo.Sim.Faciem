@@ -1,12 +1,12 @@
 [submodule "Sim.Faciem.Material"]
-	path = Packages/Sim.Faciem.Material
+	path = Packages/com.sim.faciem-material
 	url = https://github.com/Simplicitas-Studios/Sim.Faciem.Material.git
 [submodule "Packages/Sim.Faciem"]
-	path = Packages/Sim.Faciem
+	path = Packages/com.sim.faciem
 	url = https://github.com/Simplicitas-Studios/Sim.Faciem.git
 [submodule "Packages/Sim.Faciem.uGUI"]
-	path = Packages/Sim.Faciem.uGUI
+	path = Packages/com.sim.faciem-ugui
 	url = https://github.com/Simplicitas-Studios/Sim.Faciem.uGUI.git
 [submodule "Packages/Sim.Utility"]
-	path = Packages/Sim.Utility
+	path = Packages/com.sim.utility
 	url = https://github.com/Simplicitas-Studios/Sim.Utility.git
