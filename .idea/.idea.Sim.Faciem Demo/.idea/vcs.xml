@@ -2,9 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Packages/Sim.Faciem" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Packages/Sim.Faciem.Material" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Packages/Sim.Faciem.uGUI" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Packages/Sim.Utility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/com.sim.faciem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/com.sim.faciem-material" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/com.sim.faciem-ugui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/com.sim.utility" vcs="Git" />
   </component>
 </project>

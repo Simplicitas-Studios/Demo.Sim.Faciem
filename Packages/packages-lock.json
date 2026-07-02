@@ -24,7 +24,7 @@
       "hash": "242f30ec55ef9c34f1e9953126e6e8350ec3f4c0"
     },
     "com.sim.faciem": {
-      "version": "file:Sim.Faciem",
+      "version": "file:com.sim.faciem",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
@@ -32,7 +32,7 @@
       }
     },
     "com.sim.faciem-material": {
-      "version": "file:Sim.Faciem.Material",
+      "version": "file:com.sim.faciem-material",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
@@ -40,7 +40,7 @@
       }
     },
     "com.sim.faciem-ugui": {
-      "version": "file:Sim.Faciem.uGUI",
+      "version": "file:com.sim.faciem-ugui",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
@@ -48,7 +48,7 @@
       }
     },
     "com.sim.utility": {
-      "version": "file:Sim.Utility",
+      "version": "file:com.sim.utility",
       "depth": 0,
       "source": "embedded",
       "dependencies": {

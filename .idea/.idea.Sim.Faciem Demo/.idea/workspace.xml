@@ -11,12 +11,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ede8152-8bbf-4780-bf60-c8dae936943d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sim.Faciem Demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Runtime/GameLifetimeScope.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Runtime/GameLifetimeScope.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/Sim.Faciem/Shared/GlobalPointerInputWatcher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/Sim.Faciem/Shared/GlobalPointerInputWatcher.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Runtime/FaciemSetupStartup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Runtime/FaciemSetupStartup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PLAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/PLAN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Editor/MatEditorStyles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Editor/MatEditorStyles.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Controls/MatMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Controls/MatMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Controls/MatMenuItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Controls/MatMenuItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Controls/Styles/MatFormFieldStyles.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Controls/Styles/MatFormFieldStyles.uss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Themes/MatDeepPurpleTheme.tss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Themes/MatDeepPurpleTheme.tss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Themes/MatIndigoTheme.tss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Themes/MatIndigoTheme.tss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Themes/MatPinkBlueGreyTheme.tss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Themes/MatPinkBlueGreyTheme.tss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Themes/MatPurpleGreenTheme.tss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Runtime/Themes/MatPurpleGreenTheme.tss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/IMatDemoWindowDataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/IMatDemoWindowDataContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/MatDemoStyles.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/MatDemoStyles.uss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/MatDemoWindowView.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/MatDemoWindowView.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/MatDemoWindowViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/MatDemoWindowViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/Menu/MenuDemoView.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/Menu/MenuDemoView.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/Select/SelectDemoView.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/Select/SelectDemoView.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/Select/SelectDemoViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/Select/SelectDemoViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/WellKnownMatDemoViewIds.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/WellKnownMatDemoViewIds.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +86,14 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Packages/com.sim.faciem-material" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Temp/SourceGeneratedDocuments/2D3DC8691E2CD37A8C0D762A/Unity.UIToolkit.SourceGenerator/Unity.UIToolkit.SourceGenerator.UxmlSerializedDataGenerator/Sim.Faciem.uGUI.Editor.Controls.ConverterControl.SimConverterCollectionControl.gen.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Temp/SourceGeneratedDocuments/5C1B44D60B91066A576754C4/Unity.UIToolkit.SourceGenerator/Unity.UIToolkit.SourceGenerator.UxmlSerializedDataGenerator/Sim.Faciem.Region.gen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1fda431e504b4143a1ff0b68e48862d325dc00/2f/d133b91f/Background.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1fda431e504b4143a1ff0b68e48862d325dc00/9e/677711f1/StyleBackground.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1fda431e504b4143a1ff0b68e48862d325dc00/cd/4c5e26da/Button.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1fda431e504b4143a1ff0b68e48862d325dc00/e7/c65e5948/BaseVerticalCollectionView.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ea8a0a7fff264d7ea9bf09a2ff4ae3df1ffc00/67/328ee5cc/VisualElement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Runtime/uGUI/NestedItem.cs" root0="FORCE_HIGHLIGHTING" />
@@ -84,45 +105,6 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.cysharp.r3@1a8db400ff27/Runtime/SerializableReactiveProperty.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.cysharp.r3@1a8db400ff27/Runtime/UnityProviderInitializer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.cysharp.unitask@8e35566084c7/Runtime/UniTaskScheduler.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/Icons/IconCollectionAssetPostProcessor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatEditorStyles.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatEditorTheme.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatFaciemEditorWindow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatFaciemPopupWindowContent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatFaciemToolbarOverlay.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatMaterialSetupWindow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Editor/MatStyleAutoInjector.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatButtonColor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatButtonVariant.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatFormField.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatFormFieldAppearance.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatMenuItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatOption.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Controls/MatSelect.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Icons/IconCollection.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Runtime/Icons/IconCollectionRegistry.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Editor/MatDemoWindow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Editor/Sim.Faciem.Material.Samples.Editor.asmdef" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Button/ButtonDemoView.uxml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Button/ButtonDemoViewModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Button/IButtonDemoDataContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/GettingStarted/GettingStartedView.uxml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/GettingStarted/GettingStartedViewModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/GettingStarted/IGettingStartedDataContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/GridList/MaterialGridDemoItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/IMatDemoWindowDataContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/MatDemoWindowView.uxml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/MatDemoWindowViewModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/ISelectDemoDataContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/SelectDemoView.uxml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Select/SelectDemoViewModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Theming/IThemingDataContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Theming/ThemingView.uxml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/Theming/ThemingViewModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/WellKnownMatDemoRegions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem.Material/Samples/MaterialDemo/Runtime/WellKnownMatDemoViewIds.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/Sim.Faciem/Runtime/NavigationParameters.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -131,61 +113,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="4.0944197369114194E-116" />
-      <entry key="MS500" value="8.364470857976913E-24" />
-      <entry key="S2" value="1.7006291468006858E-6" />
-      <entry key="S5" value="0.004923515668850018" />
-      <entry key="S10" value="0.07153876267417439" />
-      <entry key="S30" value="0.8156123068446826" />
-      <entry key="S60" value="2.485597463243714" />
-      <entry key="M2" value="5.351463903137111" />
-      <entry key="M5" value="10.377349093767132" />
-      <entry key="M10" value="15.666230125306361" />
-      <entry key="M15" value="19.852849951445798" />
-      <entry key="M30" value="27.881543323838034" />
-      <entry key="H1" value="36.18372108098227" />
-      <entry key="H2" value="46.36972480544242" />
-      <entry key="H4" value="58.312748650414854" />
-      <entry key="D1" value="133.379737709422" />
-      <entry key="W1" value="288.8546685494969" />
+      <entry key="MS100" value="4.361083133489256E-21" />
+      <entry key="MS500" value="3.636849673691935E-4" />
+      <entry key="S2" value="0.8041287202090923" />
+      <entry key="S5" value="4.075854657981808" />
+      <entry key="S10" value="7.186497423306343" />
+      <entry key="S30" value="10.99903349963942" />
+      <entry key="S60" value="13.433090550157683" />
+      <entry key="M2" value="16.765282840468007" />
+      <entry key="M5" value="22.34255462163175" />
+      <entry key="M10" value="27.940057969961323" />
+      <entry key="M15" value="32.25949869973501" />
+      <entry key="M30" value="40.48035914732806" />
+      <entry key="H1" value="48.929212316673286" />
+      <entry key="H2" value="59.209515606272625" />
+      <entry key="H4" value="71.21336036728965" />
+      <entry key="D1" value="146.34301206917368" />
+      <entry key="W1" value="301.84345872801475" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000000000089" />
-      <entry key="S2" value="1.000554941159062" />
-      <entry key="S5" value="1.0637151907709026" />
-      <entry key="S10" value="1.3908048754225997" />
-      <entry key="S30" value="2.53982795016059" />
-      <entry key="S60" value="3.4982003997422115" />
-      <entry key="M2" value="4.956915202184208" />
-      <entry key="M5" value="7.660598952426033" />
-      <entry key="M10" value="9.894845686992271" />
-      <entry key="M15" value="11.403517181191699" />
-      <entry key="M30" value="14.20202829219103" />
-      <entry key="H1" value="16.96629950763178" />
-      <entry key="H2" value="19.798536489564256" />
-      <entry key="H4" value="22.694625299949745" />
-      <entry key="D1" value="60.92767044903837" />
-      <entry key="W1" value="140.74625248193848" />
+      <entry key="MS100" value="1.0310341404824073" />
+      <entry key="MS500" value="1.499307333522676" />
+      <entry key="S2" value="1.8453158300585284" />
+      <entry key="S5" value="2.0859516153847446" />
+      <entry key="S10" value="2.6716071936137187" />
+      <entry key="S30" value="4.827929975669495" />
+      <entry key="S60" value="6.59827333032769" />
+      <entry key="M2" value="8.66529587059536" />
+      <entry key="M5" value="11.9142622896676" />
+      <entry key="M10" value="14.430013899218867" />
+      <entry key="M15" value="16.053312670177576" />
+      <entry key="M30" value="18.989997507103322" />
+      <entry key="H1" value="21.842196887061526" />
+      <entry key="H2" value="24.727277538000557" />
+      <entry key="H4" value="27.65430635934607" />
+      <entry key="D1" value="65.91068328081121" />
+      <entry key="W1" value="145.74076429773547" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0438889023668124" />
-      <entry key="MS500" value="0.535144349213312" />
-      <entry key="S2" value="0.8553243585829844" />
-      <entry key="S5" value="0.9687684975848385" />
-      <entry key="S10" value="1.30596866010901" />
-      <entry key="S30" value="3.1796483868701606" />
-      <entry key="S60" value="5.838862670770144" />
-      <entry key="M2" value="10.198479058059949" />
-      <entry key="M5" value="17.96903361935326" />
-      <entry key="M10" value="25.504873822849735" />
-      <entry key="M15" value="31.201215003679565" />
-      <entry key="M30" value="42.034755535683445" />
-      <entry key="H1" value="53.114651241690346" />
-      <entry key="H2" value="66.14578413065469" />
-      <entry key="H4" value="80.99419948602527" />
-      <entry key="D1" value="194.3042352887123" />
-      <entry key="W1" value="429.60025218044564" />
+      <entry key="MS100" value="0.14136221744578617" />
+      <entry key="MS500" value="0.9117011054884793" />
+      <entry key="S2" value="2.3971363046744263" />
+      <entry key="S5" value="5.925394475147964" />
+      <entry key="S10" value="9.548538132480529" />
+      <entry key="S30" value="15.520142017333324" />
+      <entry key="S60" value="19.790814855410428" />
+      <entry key="M2" value="25.26005140693582" />
+      <entry key="M5" value="34.15867607871986" />
+      <entry key="M10" value="42.298406282792776" />
+      <entry key="M15" value="48.24723805895863" />
+      <entry key="M30" value="59.416205682230675" />
+      <entry key="H1" value="70.73327505157411" />
+      <entry key="H2" value="83.91288928237795" />
+      <entry key="H4" value="98.8537632158364" />
+      <entry key="D1" value="212.25039818529203" />
+      <entry key="W1" value="447.5835363197515" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -314,6 +296,8 @@
       <workItem from="1781717198394" duration="11511000" />
       <workItem from="1781809511317" duration="3221000" />
       <workItem from="1782414427317" duration="122000" />
+      <workItem from="1782415063361" duration="1863000" />
+      <workItem from="1783005104574" duration="2179000" />
     </task>
     <servers />
   </component>
