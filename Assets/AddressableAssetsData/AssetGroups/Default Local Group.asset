@@ -57,6 +57,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Faciem-ViewId
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 753677b920a4af179d732c32b6340f14
+    m_Address: Packages/com.sim.faciem-material/Samples/MaterialDemo/Runtime/SlideToggle/MatSlideToggleDemoViewId.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Faciem-ViewId
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7760d729b59e247428311094e3bd4e4d
     m_Address: Packages/com.sim.faciem-material/Icons/Fontawesome-Free-Brands.asset
     m_ReadOnly: 0
